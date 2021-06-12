@@ -1,0 +1,15 @@
+body {
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-position:center;
+}
+
+.wh {
+    width:500px;
+    border-radius: 25px;
+}
+
+canvas {
+    box-shadow: 10px, 10px, 10px, gray;
+    border-radius: 10px;
+}
